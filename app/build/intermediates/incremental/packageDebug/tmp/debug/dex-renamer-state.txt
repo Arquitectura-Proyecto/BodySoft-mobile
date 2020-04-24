@@ -1,0 +1,4 @@
+#Fri Apr 24 14:45:29 COT 2020
+base.0=/home/daniela/Documentos/proyecto/star/material-components-android-codelabs-101-starter/java/shrine/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
